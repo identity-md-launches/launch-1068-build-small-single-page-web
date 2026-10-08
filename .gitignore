@@ -1,0 +1,10 @@
+# Path budget: 512 bytes. Keep the complete production dist/ export.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/.npm/
+**/npm-cache/
+**/coverage/
+**/.playwright-mcp/
+/test/scratch/
+*.tsbuildinfo
